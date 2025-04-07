@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">Calculadora</string>
+
+    <!-- Hints dos campos -->
+    <string name="valor1_hint">Valor 1</string>
+    <string name="valor2_hint">Valor 2</string>
+
+    <!-- Resultado -->
+    <string name="resultado_label">RESULTADO:</string>
+
+    <!-- Botões de operação -->
+    <string name="soma">+</string>
+    <string name="subtracao">-</string>
+    <string name="multiplicacao">x</string>
+    <string name="divisao">/</string>
+
+    <!-- Botões extras -->
+    <string name="c1">C1</string>
+    <string name="c2">C2</string>
+    <string name="ca">CA</string>
+    <string name="r1">R1</string>
+    <string name="m_mais">M+</string>
+    <string name="m_menos">M-</string>
+    <string name="mr">MR</string>
+    <string name="mc">MC</string>
+    <string name="h">H</string>
+    <string name="hc">HC</string>
+    <string name="hf">HF</string>
+    <string name="hfc">HFC</string>
+
+    <!-- Botão final -->
+    <string name="finalizar">Finalizar</string>
 </resources>
